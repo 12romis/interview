@@ -2,7 +2,6 @@
 
 if(isset($_COOKIE['isAnswer']))
     header('Location: result.php');
-	
 ?>
 
 <!doctype html>
