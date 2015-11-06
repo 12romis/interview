@@ -123,6 +123,7 @@ $answers = getResult();
         За вариант 4 (css через 2-3 недели (вероятно у Артамонова)) - <?= $answers[3] ?><br/>
         За вариант 5 (Интернет технологии (вместе с ООП в JS)) - <?= $answers[4] ?><br/>
 		Too too ta ta ra ta
+branch master it is
     </div>
 </body>
 </html>
