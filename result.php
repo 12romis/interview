@@ -1,6 +1,5 @@
 <?php
 /**
- * Created by PhpStorm.
  * User: Романенко Ігор
  * Date: 05.11.2015
  * Time: 8:29

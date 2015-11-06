@@ -1,5 +1,4 @@
 <?php
-
 if(isset($_COOKIE['isAnswer']))
     header('Location: result.php');
 ?>
@@ -42,3 +41,4 @@ if(isset($_COOKIE['isAnswer']))
 
 </body>
 </html>
+hello
